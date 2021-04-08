@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Live Demo
 
-### `https://youtube-clone-react-phi.vercel.app/`
+### https://youtube-clone-react-phi.vercel.app/
 
 ## Available Scripts
 
